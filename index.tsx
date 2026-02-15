@@ -30,7 +30,7 @@ export default function Home(){
  return (
     <View style={styles.container}>
       <View style={styles.card}>
-        <Text style={styles.title}>👑 King of Fruit</Text>
+        <Text style={styles.title}>Bee09</Text>
 
         <Text style={styles.label}>
           Fruit : <Text style={styles.value}>{fruit || "-"}</Text>
